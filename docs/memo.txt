@@ -1,1 +1,5 @@
+ HEAD
 메인에서 수정한 충돌 테스트 문구
+
+브랜치에서 수정한 충돌 테스트 문구
+ feature/conflict-test
